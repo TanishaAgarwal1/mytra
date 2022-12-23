@@ -1,0 +1,30 @@
+.container{
+    padding: 0 10vw;
+    margin: auto;
+    margin: 10px 0px;
+}
+
+.block{
+    display: block;
+}
+.flex{
+    display: flex;
+}
+.align-items{
+    align-items: center;
+}
+.justify-content{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.bolder{
+    font-weight: bolder;
+}
+.space-between{
+    justify-content: space-between;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
